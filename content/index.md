@@ -7,3 +7,5 @@ tags:
 [[Albion]]
 
 ![[Albion.png]]
+
+I will try harder
