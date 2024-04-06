@@ -5,4 +5,5 @@ tags:
   - example-tag
 ---
 [[Albion]]
-[[Albion.png]]
+
+![[Albion.png]]
